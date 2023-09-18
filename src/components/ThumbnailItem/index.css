@@ -1,0 +1,17 @@
+/* Write your code here. */
+
+.list-items {
+  list-style-type: none;
+}
+
+.button {
+  background-color: transparent;
+  cursor: pointer;
+  outline: none;
+  border: none;
+  opacity: 0.5;
+}
+
+.active-image-button {
+  opacity: 1;
+}
